@@ -27,7 +27,7 @@ Run `poetry install && poetry shell`. Then notice:
     $ repro actually works lol -o okay
     args = ['lol']
     opt = 'okay'
-                                                                                    [ 0s131 | Jul 11 02:18PM ]
+
     $ repro actually works -o okay lol
     args = ['lol']
     opt = 'okay'
