@@ -1,6 +1,6 @@
 # Repro of Typer Issue
 
-Run `poetry install && poetry shell`. Then notice:
+[Install `Poetry`](https://python-poetry.org/docs/). Run `poetry install && poetry shell`. Then notice:
 
 - `repro new -o okay lol` successfully runs:
 
